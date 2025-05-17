@@ -1,5 +1,4 @@
 # YGODeckBuilder
-Olá! Aqui está um README para o seu deck builder de Yu-Gi-Oh! Espero que ajude!
 -------------------------------------
 # Yu-Gi-Oh! Deck Builder - O Deck que você sempre quis (quase)! 😎
 
